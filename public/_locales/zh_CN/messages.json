@@ -1,0 +1,8 @@
+{
+  "hello": {
+    "message": "你好"
+  },
+  "ok": {
+    "message": "可以"
+  }
+}
